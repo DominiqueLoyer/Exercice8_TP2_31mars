@@ -1,5 +1,5 @@
-# Exercice8_TP2_31mars
-##Auteur: Dominique Loyer
+# Exercice8_TP2_31mars (non-terminé mais 1ère bonne ébauche)
+###Auteur: Dominique Loyer
 
 
 ##Énoncé du travail

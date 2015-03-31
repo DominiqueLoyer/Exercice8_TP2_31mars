@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DominiqueLoyer">
+    <title>index_contacts</title>
+   
+    <link rel="import" href="composantes/formulaire/formulaire.html">
+    
+ </head>
+    
+    
+    <body>
+    
+    <formulaire> </formulaire>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.3.3/platform.js"></script>
+    
+    </body>
+    
+    
+</html>

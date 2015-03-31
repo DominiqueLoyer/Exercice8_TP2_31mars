@@ -1,4 +1,4 @@
-# Exercice8_TP2_31mars (non-terminé mais 1ère bonne ébauche)
+# Exercice8_TP2_31mars (version finale dans la branche test2)
 ###Auteur: Dominique Loyer
 référence: https://github.com/polymer/polymer
 

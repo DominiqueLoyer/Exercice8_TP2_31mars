@@ -1,5 +1,6 @@
 # Exercice8_TP2_31mars (non-terminé mais 1ère bonne ébauche)
 ###Auteur: Dominique Loyer
+référence: https://github.com/polymer/polymer
 
 
 ##Énoncé du travail
